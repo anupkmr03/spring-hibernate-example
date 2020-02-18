@@ -1,6 +1,6 @@
-# Sample applicant test
+# Application
 
-## Task Description
+##  Description
 You should be able to start the example application by executing com.test.ServerApplicantTestApplication, which starts a webserver on port 8080 (http://localhost:8080) and serves SwaggerUI where can inspect and try existing endpoints.
 
 The project is based on a small web service which uses the following technologies:
@@ -109,7 +109,7 @@ Added a generic solution for all type of search requirements
 ---
 
 
-## Task 4 (optional)
+## Task 4
 This task is _voluntarily_, if you can't get enough of hacking tech challenges, implement security.
 Secure the API so that authentication is needed to access it. The details are up to you.
 
